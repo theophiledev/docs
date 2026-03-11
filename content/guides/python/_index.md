@@ -4,7 +4,7 @@ linkTitle: Python
 description: Containerize Python apps using Docker
 keywords: Docker, getting started, Python, language
 summary: |
-  This guide explains how to containerize Python applications using Docker.
+  This guide explains how to containerize Python applications using Docker. 
 toc_min: 1
 toc_max: 2
 aliases:
